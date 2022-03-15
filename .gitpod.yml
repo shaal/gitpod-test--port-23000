@@ -1,0 +1,3 @@
+tasks:
+  - command: |
+      code README.md
